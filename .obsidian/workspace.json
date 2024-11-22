@@ -1,0 +1,204 @@
+{
+  "main": {
+    "id": "5bd74ec849253b25",
+    "type": "split",
+    "children": [
+      {
+        "id": "2c0b7082e71a0d08",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ae01bd500f1baa00",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java_Grundlagen.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Java_Grundlagen"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "89300884baa1ca08",
+    "type": "split",
+    "children": [
+      {
+        "id": "2217f09bdba38dce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "03498a00ea9711b8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Dateiexplorer"
+            }
+          },
+          {
+            "id": "f09f587d519198ee",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Suchen"
+            }
+          },
+          {
+            "id": "54f2c5fcb7975d93",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Lesezeichen"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2dc4b453ab9e1f66",
+    "type": "split",
+    "children": [
+      {
+        "id": "3dd01ed8e4d4a15e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "55b9bd8fba2f26ce",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Java_Grundlagen.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Rückverweise für Java_Grundlagen"
+            }
+          },
+          {
+            "id": "6dc791ab8d74237e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Java_Grundlagen.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Ausgehende Links von Java_Grundlagen öffnen"
+            }
+          },
+          {
+            "id": "60be329f2b38f7ce",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ef9a067719b2d4a7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Java_Grundlagen.md"
+              },
+              "icon": "lucide-list",
+              "title": "Gliederung von Java_Grundlagen"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Schnellauswahl öffnen": false,
+      "graph:Graphen-Ansicht öffnen": false,
+      "canvas:Neuen Canvas erstellen": false,
+      "daily-notes:Heutige Notiz öffnen": false,
+      "templates:Vorlage einfügen": false,
+      "command-palette:Befehlspalette öffnen": false
+    }
+  },
+  "active": "ae01bd500f1baa00",
+  "lastOpenFiles": [
+    "Programmiersprachen/Programmiersprachen/Python/Python_Grundlagen.md",
+    "Programmiersprachen/Programmiersprachen/HTML/HTML_Grundlagen.md",
+    "Programmiersprachen/Programmiersprachen/CSS/CSS_Positionen_Mit_Abständen.md",
+    "Programmiersprachen/Programmiersprachen/CSS/CSS_Grundlagen.md",
+    "Programmiersprachen/Programmiersprachen/ABAP/ABAP_Grundlagen.md",
+    "JavaAll/Java/23. Java_JUnit_Testing.md",
+    "JavaAll/Java/21. Java_Excel_Integration.md",
+    "JavaAll/Java/20. Java_Dateien_lesen_und_schreiben_mit_Streams.md",
+    "JavaAll/Java/13. Java_Set, Map, sort () Methode.md",
+    "JavaAll/Java/12. Java_ArrayList und LinkedList.md",
+    "JavaAll/Java/11.Java_Collection Framework Generics Wrapperklassen.md",
+    "JavaAll/Java/10. Java_Ausnahmebehandlung (Exeption).md",
+    "JavaAll/Java/9. Java_Abstrakte Klassen und Schnittstellen.md",
+    "JavaAll/Java/8. Java_Getter und Setter.md",
+    "JavaAll/Java/7. Java_Modifikatoren.md",
+    "JavaAll/Java/6. Java_Assoziation.md",
+    "JavaAll/Java/5. Java_Vererbung.md",
+    "JavaAll/Java/4. Java_Arrays.md",
+    "JavaAll/Java/3. Java_Methoden.md",
+    "JavaAll/Java/2. Java_Kontrollstrukturen.md",
+    "JavaAll/Java/1. Java_Grundlagen.md",
+    "Java_Grundlagen.md",
+    "Programmiersprachen/Programmiersprachen/ABAP",
+    "Programmiersprachen/Programmiersprachen/Python",
+    "Programmiersprachen/Programmiersprachen/JavaScript/HTML_CSS_JS_Beispiel.md",
+    "Programmiersprachen/Programmiersprachen/JavaScript/19. JavaScript_Modules.md",
+    "Programmiersprachen/Programmiersprachen/JavaScript/18. JavaScript_Cookies_und_Storage.md",
+    "Programmiersprachen/Programmiersprachen/JavaScript/17. JavaScript_Klassen.md",
+    "Programmiersprachen/Programmiersprachen/JavaScript",
+    "Programmiersprachen/Programmiersprachen/CSS",
+    "Programmiersprachen/Programmiersprachen/HTML",
+    "Programmiersprachen/Programmiersprachen/Java",
+    "Programmiersprachen/Programmiersprachen/JavaAll.zip",
+    "Programmiersprachen/Programmiersprachen",
+    "Programmiersprachen",
+    "JavaAll/Java"
+  ]
+}
