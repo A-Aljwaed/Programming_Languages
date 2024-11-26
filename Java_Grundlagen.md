@@ -23,6 +23,7 @@ public class HelloWorld {          // Definition einer Klasse
 
 ## 3. Variablen und Datentypen
 ### Deklaration und Initialisierung
+
 ```java
 int age = 25;         // Ganze Zahl
 double price = 19.99; // Dezimalzahl
